@@ -77,3 +77,7 @@ To interact with the quiz:
 Open the web application in your browser (http://localhost:3000).
 Answer the quiz questions presented.
 Upon answering correctly, the corresponding tokens are transferred to your wallet on Aptos devnet.
+
+
+Shreyansh Tiwari
+shreylol321@gmail.com
