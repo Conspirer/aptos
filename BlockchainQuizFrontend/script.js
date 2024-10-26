@@ -1,4 +1,4 @@
-const CONTRACT_ADDRESS = "0x1bd6210ed95f8afda37f5254b41f0288250f40c11399c6420d77f4db3124becf"; // Replace with your actual contract address
+const CONTRACT_ADDRESS = "0xcd94a5cf1dbdf28bd26a5d8e04bba5ea43dc7e14b3327ce6e55de346248a818b"; // Replace with your actual contract address
 
 
 // Function to initialize the app once Aptos SDK is loaded
